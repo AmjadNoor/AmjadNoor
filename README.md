@@ -9,12 +9,12 @@ I am a frontend developer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmjadNoor)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadNoor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadNoor&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmjadNoor&theme=chartreuse-dark&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmjadNoor)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmjadNoor)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmjadNoor&theme=chartreuse-dark)  
 
 
