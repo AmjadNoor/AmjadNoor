@@ -1,8 +1,8 @@
-### <kbd>Hi there 👋, my name is Amjad Noor</kbd>
-<kbd>I am a frontend developer.</kbd>
+### Hi there 👋, my name is Amjad Noor
+I am a frontend developer.
 
-- <kbd>🔭 I’m currently working on web development.</kbd> 
-- <kbd>🌱 I’m currently learning Python.</kbd>
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning Python.
 
 
 <kbd>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmjadNoor)</kbd>
