@@ -1,11 +1,13 @@
-### Hi there 👋, my name is Amjad Noor
+### <kbd>Hi there 👋, my name is Amjad Noor</kbd>
 <kbd>I am a frontend developer.</kbd>
 
-- 🔭 I’m currently working on web development. 
-- 🌱 I’m currently learning Python. 
+- <kbd>🔭 I’m currently working on web development.</kbd> 
+- <kbd>🌱 I’m currently learning Python.</kbd>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmjadNoor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/this_is_Amjad_Noor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmjadNo99260089)  
+<kbd>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmjadNoor)</kbd>
+<kbd>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/this_is_Amjad_Noor/)</kbd>
+<kbd>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmjadNo99260089)</kbd>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmjadNoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -15,6 +17,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmjadNoor)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmjadNoor&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmjadNoor&theme=dark)
 
 
