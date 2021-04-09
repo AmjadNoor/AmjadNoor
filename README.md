@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amjad Noor
-I am a frontend developer.
+<kbd>I am a frontend developer.</kbd>
 
 - 🔭 I’m currently working on web development. 
 - 🌱 I’m currently learning Python. 
